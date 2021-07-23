@@ -1,3 +1,6 @@
+* {
+  scroll-behavior: smooth;
+}
 .bg-orange {
   background-color: #ff7f50;
   box-shadow: 0 0 10px 10px rgb(0 0 0/ 25%);
